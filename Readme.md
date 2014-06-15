@@ -1,0 +1,1 @@
+## A simple test project to test the minifier.
